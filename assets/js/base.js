@@ -82,7 +82,8 @@ var map = new ol.Map({
     layers: [
         new ol.layer.Tile({
             source: new ol.source.OSM({
-                "url" : "http://tile2.opencyclemap.org/transport/{z}/{x}/{y}.png"
+                // "url" : "http://tile2.opencyclemap.org/transport/{z}/{x}/{y}.png"
+                "url" : "https://tile.thunderforest.com/transport/{z}/{x}/{y}.png?apikey=de197060b5e64dd0aea6fbfbe9eb2efc"
             })
         })
     ],
