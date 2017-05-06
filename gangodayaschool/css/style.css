@@ -71,6 +71,7 @@ form.login {width:220px; overflow:hidden;}
 .page #main .section-title {min-height:150px;}
 .section-title i {width:100px; height:100px; border:solid 5px #fff; background:#dedede; border-radius:50%; position:absolute; left:50%; margin-left:-26px; bottom:-25px; text-align:center; line-height:40px; font-size:20px;}
 /*.section-title img {width:auto; height:100px; border:solid 5px #fff; background:#dedede; border-radius:50%; position:absolute; left:50%; margin-left:-26px; bottom:-25px; text-align:center; line-height:40px; font-size:20px;}*/
+.section-titleT img {width: 150px;height: 150px;border: solid 5px #fff;background: #dedede;border-radius: 50%;position: absolute;}
 .section-title img { width: 15%;height: auto;border: solid 5px #fff;background: #dedede;border-radius: 50%;position: absolute;left: 50%;margin-left: -85px;bottom: -31px;}
 .red .section-title {border-bottom-color:#eb2429;}
 .blue .section-title {border-bottom-color:#02669a;}
