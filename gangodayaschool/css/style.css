@@ -1,6 +1,6 @@
 .row {margin-left: -10px; margin-right: -10px;}
 [class*="col-"] {padding-left: 10px; padding-right: 10px;}
-html, body {background:url(../images/pattern.png) #f1f1f1; font-size:14px; line-height:20px;}
+html, body {background:url(../images/pattern.png) rgba(193, 193, 193, 0.21); font-size:14px; line-height:20px;}
 h1, h2, h3, h4, h5, h6 {font-weight:normal; line-height:1.6;}
 h1 {font-size:40px;}
 h2 {font-size:34px;}
@@ -15,12 +15,12 @@ a.more:hover {text-decoration:none; background-position: 0 0;}
 .relative {position:relative;}
 #header {width:100%; height:180px; background:url(../images/pattern.png) #02669a; padding-top:20px;}
 .logo {text-align:center;}
-.logo img {max-width:95%;}
+.logo img {max-width:85%;}
 .site-title {width:100%; text-align:center;}
 .site-title img {max-width:22%;}
 .site-title h1 {margin:0; padding:0;color: white}
 .flag {text-align:center;}
-.flag img {max-width:90px;}
+.flag img {max-width:100px;}
 .eng-logo {position:absolute; left:0; top:-58px; font-family: 'Roboto Condensed', sans-serif; color:#fff; font-size:12px; text-align:left; padding-left:40px;}
 .eng-logo p {font-size:12px; margin:0;}
 .eng-logo h3 {font-size:16px; margin:0; line-height:16px; font-weight:700;}
