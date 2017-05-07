@@ -7,6 +7,17 @@ h2 {font-size:34px;}
 h3 {font-size:28px;}
 h4 {font-size:24px; margin-bottom:10px;}
 h5 {font-size:18px;}
+p {
+	font-size: 17px;
+    line-height: 2rem;
+    font-family:inherit;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
 a {color:#02669a;}
 a:focus {outline:none; text-decoration:none;}
 a:hover {color:#eb2429; text-decoration:none;}
@@ -221,3 +232,14 @@ ul.director li h5.name, ul.director li .post {text-align:center;}
 @media (max-width:479px){
 	ul.staffs li {width:100%; border-right:none;}	
 }
+
+
+/* social-share-block */
+.social-share-block{background: #02669a;margin: 10px;}
+.social-share-block a, .social-share-block a:hover{display:inline-block; padding:5px; color:#fff; width:25px; height:25px; text-align:center; border-radius:50%; margin:0 5px;}
+.social-share-block a.sm-fb{background:#38589e;}
+.social-share-block a.sm-tw{background:#45b0e3;}
+.social-share-block a.sm-yt{background:#de4444;}
+.social-share-block a.sm-gp{background:#2268a7;}
+
+    
