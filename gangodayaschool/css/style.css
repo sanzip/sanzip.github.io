@@ -35,7 +35,8 @@ a.more:hover {text-decoration:none; background-position: 0 0;}
 .eng-logo {position:absolute; left:0; top:-58px; font-family: 'Roboto Condensed', sans-serif; color:#fff; font-size:12px; text-align:left; padding-left:40px;}
 .eng-logo p {font-size:12px; margin:0;}
 .eng-logo h3 {font-size:16px; margin:0; line-height:16px; font-weight:700;}
-.eng {position:absolute; right:40px; top:-30px; background:#fff; padding:0 20px; height:30px; line-height:30px; color:#646464; border-radius:3px 3px 0 0; text-transform:uppercase; transition:ease-in-out 0.3s;}
+
+.eng {position:absolute; right:40px;top: -58px;; background:#fff; padding:0 20px; height:30px; line-height:30px; color:#646464; border-radius:3px 3px 0 0; text-transform:uppercase; transition:ease-in-out 0.3s;}
 .eng:hover {background:#f1f1f1; color:#02469a; text-decoration:none;}
 #navigation {width:100%; height:40px; background:#02669a; border-bottom:solid 1px #fff;margin-top: 10px}
 .main-navigation ul {list-style:none; text-align:center; padding:0; margin:0;}
